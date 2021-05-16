@@ -10,6 +10,8 @@ Therefore, weather data from the months of June and December will be analyzed to
 The table below show the minimum, maximum and average temperatures in Oahu, Hawaii for the months of June and December.
 For this business to be profitable, temperatures in the area must be warm enough year-round to generate enough foot traffic in the store to sell surf/beach merchandise and ice cream. 
 
+![image](https://user-images.githubusercontent.com/80069183/118414614-4f1d2c80-b66b-11eb-9e31-d8a09c1f71e4.png)
+
 ##Summary
 
 In the summary table below, we see the average temperatures for the months of June and December are in the low 70’s. Similarly, the average high for both months is also the same, coming in at around the mid 80’s. There are many factors that one must consider when starting a business. Weather alone should not be the determining factor; however, it does provide insight to the type of business that has the potential to be profitable in the area. 
