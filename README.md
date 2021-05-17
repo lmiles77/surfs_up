@@ -19,6 +19,7 @@ In the summary table below, we see the average temperatures for the months of Ju
 -Avg high/max temperature for both months around mid 80s
 
 ![image](https://user-images.githubusercontent.com/80069183/118419400-7bdc3e80-b681-11eb-9518-d81adc79ef05.png)
+
 ![image](https://user-images.githubusercontent.com/80069183/118419467-af1ecd80-b681-11eb-9935-d073d7ed6a90.png)
 
 
